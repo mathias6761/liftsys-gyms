@@ -1,0 +1,18 @@
+{
+  "v": 1,
+  "release": "2026-10-21.0",
+  "gyms": 695345,
+  "tiles": 28438,
+  "tileDeg": 0.25,
+  "fields": [
+    "id",
+    "name",
+    "lat",
+    "lon",
+    "studio",
+    "website",
+    "phone",
+    "address"
+  ],
+  "attribution": "Overture Maps Foundation (CDLA-Permissive-2.0)"
+}
